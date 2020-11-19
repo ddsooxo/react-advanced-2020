@@ -1,4 +1,8 @@
 import React, { useState } from "react";
+//  something that relates to all hooks: they will start with "use"
+//  component name must be uppercase
+//  must be in the function/component body
+//  cannot call conditionally
 
 const UseStateBasics = () => {
   // console.log(useState("hello"));
